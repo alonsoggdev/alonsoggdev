@@ -16,7 +16,7 @@
 <div style = "display:flex">
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg' width = '40' height = '40'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/c/c-original.svg' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/tree/master/icons/cplusplus/cplusplus-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/tree/master/icons/csharp/csharp-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/tree/master/icons/css3/css3-original.svg' width = '40' height = '40'>
