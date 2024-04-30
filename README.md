@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div>
+<div align = "center>
   <a href = 'https://es.linkedin.com/in/alonso-garc%C3%ADa-garc%C3%ADa-619a01179'><img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href = 'https://alonsoggdev.github.io'><img src = "https://img.shields.io/badge/Portfolio-orange?&style=for-the-badge"></a>
 </div>
@@ -14,7 +14,7 @@
 - :man_technologist: I am a Full Stack and Videogame Developer
 
 ### :hammer_and_wrench: Languages and Tools :
-<div style = "display:flex">
+<div style = "display:flex" align = "center">
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' width = '40' height = '40'>
