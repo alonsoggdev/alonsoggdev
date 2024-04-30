@@ -13,30 +13,29 @@
 - :man_technologist: I am a Full Stack and Videogame Developer
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/c/c-original.svg'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/cplusplus/cplusplus-original.svg'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/csharp/csharp-original.svg'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/css3/css3-original.svg'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/figma'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/github'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/html5'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/javascript'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/mysql'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/notion'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/npm'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/python'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/sdl'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/sqlite'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/tailwindcss'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/typescript'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/unity'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/unrealengine'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/visualstudio'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/vite'>
-  <img src = 'https://github.com/devicons/devicon/tree/master/icons/vscode'>
-  
+<div style = "display:flex">
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/c/c-original.svg' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/cplusplus/cplusplus-original.svg' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/csharp/csharp-original.svg' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/css3/css3-original.svg' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/figma/figma-original.svg' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/github' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/html5' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/javascript' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/mysql' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/notion' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/npm' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/python' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/sdl' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/sqlite' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/tailwindcss' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/typescript' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/unity' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/unrealengine' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/visualstudio' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/vite' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/tree/master/icons/vscode' width = '40' height = '40'> 
 </div>
 
