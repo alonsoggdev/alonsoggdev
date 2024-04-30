@@ -6,6 +6,7 @@
 
 <div>
   <a href = 'https://es.linkedin.com/in/alonso-garc%C3%ADa-garc%C3%ADa-619a01179'><img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href = 'https://alonsoggdev.github.io'><img src = "https://img.shields.io/badge/Portfolio-orange?&style=for-the-badge"></a>
 </div>
 
 ### :ok_man: About me :
