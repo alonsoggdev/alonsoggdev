@@ -26,7 +26,7 @@
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg' width = '40' height = '40'>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg' width = '40' height = '40'>
