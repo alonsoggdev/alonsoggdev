@@ -15,7 +15,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 ### Front-End
-<div style = "display:flex" align = "center">
+<div>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width = '40' height = '40'>
@@ -27,7 +27,7 @@
 </div>
 
 ### Game Development
-<div style = "display:flex" align = "center">
+<div>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' width = '40' height = '40'>
@@ -38,7 +38,7 @@
 </div>
 
 ### Miscellaneous
-<div style = "display:flex" align = "center">
+<div>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg' width = '40' height = '40'>
