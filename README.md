@@ -17,6 +17,7 @@
 <div style = "display:flex" align = "center">
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' width = '40' height = '40'>
@@ -30,7 +31,6 @@
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg' width = '40' height = '40'>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg' width = '40' height = '40'>
