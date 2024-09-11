@@ -11,9 +11,21 @@
 
 ### :ok_man: About me :
 
-- :man_technologist: I am a Full Stack and Videogame Developer
+- :man_technologist: I am a Software Developer, currently working at Singular Things (Madrid) as a Firmware and Web/App Developer.
 
 ### :hammer_and_wrench: Languages and Tools :
+
+### Software Development
+
+<div>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg' width = '40' height = '40'>
+
+</div>
+
 ### Front-End
 <div>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg' width = '40' height = '40'>
@@ -28,11 +40,6 @@
 
 ### Game Development
 <div>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' width = '40' height = '40'>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width = '40' height = '40'>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' width = '40' height = '40'>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width = '40' height = '40'>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg' width = '40' height = '40'>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg' width = '40' height = '40'>
 </div>
