@@ -47,7 +47,7 @@
     <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width = '40' height = '40'>
     <img src = 'https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg' width = '40' height = '40'>
     <img src = 'https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' width = '40' height = '40'>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain' width = '40' height = '40'>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg' width = '40' height = '40'>
 </div>
 
 <p>Currently learning .NET</p>
